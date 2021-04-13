@@ -4,7 +4,7 @@ Hi there! 👋 I'm Lore,
 - 📫 How to reach me: ... on LinkedIn   https://www.linkedin.com/in/andreea-loredana-dumitrache
 -                            Instagram: https://www.instagram.com/aloresarts/
 -                                       https://www.instagram.com/rb.aloresarts/
--                            
+                    
 
 
 ⚡ Additional course certifications:
