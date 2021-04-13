@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there! 👋 I'm Lore,
 
-<!--
-**aloresarts/aloresarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying ...Web development
+- 📫 How to reach me: ... on LinkedIn https://www.linkedin.com/in/andreea-loredana-dumitrache
+-                            Instagram https://www.instagram.com/aloresarts/   https://www.instagram.com/rb.aloresarts/
+-                            
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Additional course certifications:
+ 
+
+-->Shaw Academy (2017-2018)
+   Diploma in Photography
+   Diploma in Graphic Design
+
+-->Udemy 2020:
+   CompTIA A+ Certification Core 1 (220-1001)
+
+-->The CCA 2020: 
+  HTML, Css, Javascript, jQuery, MySql, Php - Level 1
+
+-->LinkedIn:
+  Agile Software Development: Scrum for Developers
+  Learning Jira Software
+
+
