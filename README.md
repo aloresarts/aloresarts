@@ -2,8 +2,8 @@ Hi there! 👋 I'm Lore,
 
 - 🔭 I’m currently studying ...Web development
 - 📫 How to reach me: ... on LinkedIn https://www.linkedin.com/in/andreea-loredana-dumitrache
--                            Instagram https://www.instagram.com/aloresarts/   
--                                      https://www.instagram.com/rb.aloresarts/
+-                            [Instagram](https://www.instagram.com/aloresarts/)   
+-                            [Instagram](https://www.instagram.com/rb.aloresarts/)
 -                            
 
 
